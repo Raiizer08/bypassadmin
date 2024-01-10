@@ -1,0 +1,8 @@
+to run a program without admin rights write this command in an .txt 
+
+Set __COMPAT_LAYER=RunAsInvoker
+Start ("Program name")
+
+and when u save it save on .bat 
+
+if u are on windows 11 save on "all files" and write .bat
